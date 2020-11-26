@@ -1,0 +1,68 @@
+@font-face {
+  font-family: "Bariol";
+  src: url("fonts/bariolbold.ttf");
+}
+@font-face {
+  font-family: "Bariolthin";
+  src: url("fonts/bariolthin1.ttf");
+}
+@font-face {
+  font-family: "Cooperm";
+  src: url("fonts/cooperm.ttf");
+}
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background: linear-gradient(#ffffff, #0984e3);
+  min-height: 100vh;
+}
+
+/* HEADER */
+h1 {
+  float: left;
+  margin-left: 10px;
+  font-family: Bariol;
+  clear: both;
+}
+nav {
+  float: right;
+  margin-top: 10px;
+}
+nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+  font-family: Bariolthin;
+}
+nav ul li a {
+  text-decoration: none;
+}
+nav ul li a:visited {
+  color: black;
+}
+nav ul li a:hover {
+  color: plum;
+}
+h1 a:visited {
+  color: black;
+}
+h1 a:hover {
+  color: plum;
+}
+h1 a {
+  text-decoration: none;
+}
+.places {
+  clear: both;
+  font-family: Cooperm;
+  margin-left: 420px;
+  padding-top: 30px;
+}
+svg {
+  height: 50%;
+  width: 50%;
+}
+.svg {
+  margin-left: 40px;
+}

@@ -1,0 +1,97 @@
+@font-face {
+  font-family: "Bariol";
+  src: url("fonts/bariolbold.ttf");
+}
+@font-face {
+  font-family: "Bariolthin";
+  src: url("fonts/bariolthin1.ttf");
+}
+@font-face {
+  font-family: "Cooperm";
+  src: url("fonts/cooperm.ttf");
+}
+* {
+  padding: 0;
+  margin: 0;
+}
+body {
+  background: linear-gradient(#ffffff, #0984e3);
+  min-height: 100vh;
+}
+
+/* HEADER */
+h1 {
+  float: left;
+  margin-left: 10px;
+  font-family: Bariol;
+  clear: both;
+}
+nav {
+  float: right;
+  margin-top: 10px;
+}
+nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+  font-family: Bariolthin;
+}
+nav ul li a {
+  text-decoration: none;
+}
+nav ul li a:visited {
+  color: black;
+}
+nav ul li a:hover {
+  color: plum;
+}
+header h1 a {
+  text-decoration: none;
+}
+header h1 a:visited {
+  color: black;
+}
+header h1 a:hover {
+  color: plum;
+}
+main {
+  clear: both;
+  margin-left: 10px;
+}
+h3 {
+  padding-top: 90px;
+  font-size: 60px;
+  font-family: Cooperm;
+}
+
+/*SVG*/
+
+svg {
+  width: 80%;
+  height: 80%;
+}
+.svg {
+  margin-left: 500px;
+  margin-top: -150px;
+}
+#skate {
+  animation-name: skate;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-timing-function: ease-in-out;
+}
+@keyframes skate {
+  from {
+    transform: rotateY(0deg);
+  }
+  to {
+    transform: rotateY(25deg);
+  }
+}
+.Ponch {
+  font-family: Bariol;
+  display: inline-block;
+  font-size: 30px;
+  float: right;
+  margin-right: 400px;
+  margin-top: -600px;
+}
