@@ -89,9 +89,10 @@ svg {
 }
 .Ponch {
   font-family: Bariol;
-  display: inline-block;
   font-size: 30px;
   float: right;
   margin-right: 400px;
   margin-top: -600px;
+  flex-grow: 1;
+  overflow: auto;
 }
