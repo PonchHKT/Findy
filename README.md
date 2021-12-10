@@ -70,5 +70,22 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-## License
-PonchHKT
+## Author
+
+👤 **Ponch**
+
+* Website: https://shuxdev.com
+* Insta: [@Ponch](https://www.instagram.com/ponchhkt/)
+* GitHub: [@Ponch](https://github.com/Ponch)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2021 [@Ponch](https://github.com/PonchHKT)
+.<br />
+
+*** 
+Craft with ❤️ Ponch
