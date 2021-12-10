@@ -1,4 +1,12 @@
-# Findy
+<h1 align="center">Findy HTML/CSS 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-%3E%3D5.5.0-blue.svg" />
+  <img src="https://img.shields.io/badge/node-%3E%3D9.3.0-blue.svg" />
+  <a href="https://twitter.com/Ed0fo" target="_blank">
+    <img alt="Twitter: Edof0" src="https://img.shields.io/twitter/follow/Ed0fo.svg?style=social" />
+  </a>
+</p>
 
 Findy is a simple web page made with HTML/CSS with some cool animations !
 
