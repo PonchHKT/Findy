@@ -1,4 +1,4 @@
-Findy is a simple web page made with HTML/CSS with some cool animations !
+#Findy is a simple web page made with HTML/CSS with some cool animations !
 
 Introduction:
 
