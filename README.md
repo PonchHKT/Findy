@@ -14,6 +14,14 @@ Fathers can now enbody the key role at home with findy. <br>
 Here you will be able to learn the basics of kids' education and self care. <br>
 All of our customers around the world are satisfied and we cannot wait to see you among us. <br>
 
+## Demo
+
+
+
+https://user-images.githubusercontent.com/70896657/145617533-803ea062-5722-4ce7-a480-2bbec0663987.mp4
+
+
+
 ## Prerequisites
 
 - HTML5
