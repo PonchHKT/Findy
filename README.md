@@ -90,8 +90,8 @@ Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
-Copyright © 2021 [@Ponch](https://github.com/PonchHKT)
+Copyright © 2021 [@PonchHKT](https://github.com/PonchHKT)
 .<br />
 
 *** 
-Craft with ❤️ Ponch
+Craft with ❤️ in Paris
